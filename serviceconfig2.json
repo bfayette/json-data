@@ -2,8 +2,8 @@
   "log": ["*"],
   "databases": {
     "db": {
-      "server": "http://couchbase-server:8091",
-      "bucket": "default",
+      "server": "walrus:",
+      "bucket": "mobile_natis",
       "users": { "GUEST": { "disabled": false, "admin_channels": ["*"] } }
     }
   }
