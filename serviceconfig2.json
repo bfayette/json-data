@@ -1,10 +1,15 @@
 {
-  "log": ["*"],
-  "databases": {
-    "db": {
-      "server": "walrus:",
-      "bucket": "mobile_natis",
-      "users": { "GUEST": { "disabled": false, "admin_channels": ["*"] } }
-    }
-  }
+	"log": ["*"],
+	"databases": {
+		"mobile_natis": {
+			"server": "http://couchbase-server:8091",
+			"bucket": "mobile_natis",
+			"users": {
+				"GUEST": {
+					"disabled": false,
+					"admin_channels": ["*"]
+				}
+			}
+		}
+	}
 }
