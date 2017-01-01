@@ -1,9 +1,9 @@
 {
   "log": ["*"],
   "databases": {
-    "db": {
+    "mobile_natis": {
       "server": "http://ec2-35-163-213-51.us-west-2.compute.amazonaws.com:8091/",
-	  "bucket": "default",
+	  "bucket": "mobile_natis",
       "users": { "GUEST": { "disabled": false, "admin_channels": ["*"] } },
       "allow_empty_password": true
     }
