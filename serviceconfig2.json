@@ -1,15 +1,11 @@
 {
-	"log": ["*"],
-	"databases": {
-		"mobile_natis": {
-			"server": "http://couchbase-server:8091",
-			"bucket": "mobile_natis",
-			"users": {
-				"GUEST": {
-					"disabled": false,
-					"admin_channels": ["*"]
-				}
-			}
-		}
-	}
+  "log": ["*"],
+  "databases": {
+    "db": {
+      "server": "http://ec2-35-163-213-51.us-west-2.compute.amazonaws.com:8091/",
+	  "bucket": "default",
+      "users": { "GUEST": { "disabled": false, "admin_channels": ["*"] } },
+      "allow_empty_password": true
+    }
+  }
 }
