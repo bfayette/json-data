@@ -2,7 +2,7 @@
   "log": ["*"],
   "databases": {
     "mobile_natis": {
-      "server": "http://couchbase.default.svc.cluster.local//:8091/",
+      "server": "http://couchbase.default.svc.cluster.local:8091/",
 	  "bucket": "mobile_natis",
       "users": { "GUEST": { "disabled": false, "admin_channels": ["*"] } },
       "allow_empty_password": true
