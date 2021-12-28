@@ -1,0 +1,6 @@
+{
+  "name": "EUSD",
+  "description": "Stable USD coin ",
+  "image": "https://raw.githubusercontent.com/bfayette/json-data/master/images/hth.png",
+  "decimals": 18
+}

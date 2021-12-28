@@ -1,0 +1,6 @@
+{
+  "name": "Ticket",
+  "description": "On day event ticket",
+  "image": "https://raw.githubusercontent.com/bfayette/json-data/master/images/hth.png",
+  "decimals": 18
+}
