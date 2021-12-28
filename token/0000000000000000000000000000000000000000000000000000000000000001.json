@@ -1,6 +1,6 @@
 {
   "name": "EHTG",
-  "description": "Stable HTG coin",
-  "image": "https://raw.githubusercontent.com/bfayette/json-data/master/images/hth.png",
+  "description": "HTG coin",
+  "image": "https://openmoji.org/data/color/svg/1F91D.svg",
   "decimals": 18
 }

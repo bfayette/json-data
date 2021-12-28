@@ -1,6 +1,6 @@
 {
   "name": "Ticket",
-  "description": "On day event ticket",
-  "image": "https://raw.githubusercontent.com/bfayette/json-data/master/images/hth.png",
+  "description": "One day event ticket",
+  "image": "https://openmoji.org/data/color/svg/1F91D.svg",
   "decimals": 18
 }

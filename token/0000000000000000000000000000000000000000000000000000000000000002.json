@@ -1,6 +1,6 @@
 {
   "name": "ECAD",
-  "description": "Stable coin for CAD",
-  "image": "https://raw.githubusercontent.com/bfayette/json-data/master/images/hth.png",
+  "description": "CAD coin",
+  "image": "https://openmoji.org/data/color/svg/1F91D.svg",
   "decimals": 18
 }
